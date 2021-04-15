@@ -39,4 +39,10 @@
    npm start
 ```
 
+#### Technologies used
+* Node
+* Express
+* Knexjs
+* PostgreSQL
+
 
