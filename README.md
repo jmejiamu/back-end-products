@@ -17,7 +17,7 @@
 #
 ```
    Create a .env in the root dir where the server.js lives. 
-   in the .env file include:
+   In the .env file include:
    HOSTNAME = localhost
    USERNAMEPG = yourusername
    PASSWORD = yourpassword 
@@ -25,4 +25,10 @@
 
     URL = localhost
 ```
+#### Run and install dependencies
+```
+   npm install
+   npm start
+```
+
 
