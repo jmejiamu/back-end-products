@@ -22,7 +22,7 @@
 ```
 
 
-#
+#### Create a .env file
 ```
    Create a .env in the root dir where the server.js lives. 
    In the .env file include:
